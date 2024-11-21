@@ -28,7 +28,19 @@ export default defineConfig({
           text: '',
           collapsed: false,
           items: [
-            { text: 'API Documentation', link: '/api/api-doc'}
+            { text: 'About API', link: '/api/api-doc'},
+            { text: 'Authentication', link: '/api/auth'},
+            { text: 'Product', link: '/api/product'}
+          ]
+        }
+      ],
+      '/diagram/' :[
+        {
+          text: '',
+          collapsed: false,
+          items: [
+            { text: 'Architecture Representation', link: '/diagram/architecture'},
+            { text: 'Sequence Diagram', link: '/diagram/sequence'}
           ]
         }
       ],

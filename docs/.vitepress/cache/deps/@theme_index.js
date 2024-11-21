@@ -1,12 +1,12 @@
 import {
   useMediaQuery
-} from "./chunk-LLU7DL6N.js";
+} from "./chunk-T76DACIF.js";
 import {
   computed,
   ref,
   shallowRef,
   watch
-} from "./chunk-LW4I4DCF.js";
+} from "./chunk-LS57BFBI.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
 import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";

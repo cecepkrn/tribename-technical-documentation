@@ -19,11 +19,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: API Documentation
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon: 📑
     link: /api/api-doc
-  - title: Feature B
+  - title: Software Diagramming
+    icon: 📐
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /diagram/architecture
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
