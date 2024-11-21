@@ -15,3 +15,8 @@ This document contains sensitive and confidential information pertaining to REST
 | Stage       | https://stage-api.com     |   <badge>active</badge>    |
 | Production  | https://api.com           |   <badge>active</badge>    |
 
+### Testing Accounts
+
+| Environmet | Username | Password | Platform | Status |
+| ---------- | -------- | -------- | -------- | -------|
+| Development | email@gmail.com | password123 | Mobile | Active |
