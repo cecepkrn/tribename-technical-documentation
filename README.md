@@ -1,14 +1,29 @@
-# tribename-technical-documentation
-This repo for templating technical documentation in Telkom Indonesia
+# Information
+This repository is used as a template for creating technical documentation in Telkom Indonesia. The template includes structures for API documentation, diagramming, team organization, and more.
 
-## Information
 ### Clone Repo to Your Local Storage
-### Step to Install <br>
-1. Install vitepress <br>
-``
-npm -D vitepress
-``
-2. To Run The Project <br>
-``
-npm run dev:docs
-``
+
+```bash
+$ git clone https://github.com/cecepkrn/tribename-technical-documentation
+
+```
+
+### Create Branches
+
+```bash
+$ git branch branch-name
+```
+
+### Pull Repo
+
+```bash
+$ git pull origin main
+```
+
+Now Open Repostory in Text Editor
+
+### Run Vitepress to Localhost
+
+```bash
+$ npm run dev:docs
+```
