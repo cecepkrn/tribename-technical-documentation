@@ -9,36 +9,36 @@ import {
 } from "./chunk-LW4I4DCF.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/base.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
-import "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import { default as default3 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
-import { default as default4 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
-import { default as default5 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPHomeContent.vue";
-import { default as default6 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default7 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default8 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default9 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPLink.vue";
-import { default as default10 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default11 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPSocialLink.vue";
-import { default as default12 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPSocialLinks.vue";
-import { default as default13 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
-import { default as default14 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default15 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
-import { default as default16 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default17 } from "E:/Personal/Tech/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
+import "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
+import VPBadge from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import Layout from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/Layout.vue";
+import { default as default2 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import { default as default3 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
+import { default as default4 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
+import { default as default5 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPHomeContent.vue";
+import { default as default6 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
+import { default as default7 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
+import { default as default8 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
+import { default as default9 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPLink.vue";
+import { default as default10 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
+import { default as default11 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPSocialLink.vue";
+import { default as default12 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPSocialLinks.vue";
+import { default as default13 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
+import { default as default14 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
+import { default as default15 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
+import { default as default16 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
+import { default as default17 } from "E:/Personal/Tech/tribename-technical-documentation/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
 
 // node_modules/vitepress/dist/client/theme-default/support/utils.js
 import { withBase } from "vitepress";

@@ -3,9 +3,13 @@
 layout: home
 
 hero:
-  name: "Tribe - Technical Documentation"
-  text: "This Template for Collecting Technical Documentation"
-  tagline: My great project tagline
+  name: "[Tribe Name] - Technical Documentation"
+  ### Title <Badge type="warning" text="beta" />
+  #text: "This Template for Collecting Technical Documentation"
+  tagline: This is property of Telkom Indonesia
+  image:
+    src: 'public/telkom.png'
+    alt: website logo
   actions:
     - theme: brand
       text: Markdown Examples
@@ -17,6 +21,7 @@ hero:
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /api/api-doc
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
