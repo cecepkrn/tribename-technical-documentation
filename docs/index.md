@@ -20,16 +20,16 @@ hero:
 
 features:
   - title: API Documentation
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Dokumentasi API menjelaskan cara menggunakan API, mencakup endpoint, parameter, metode, dan contoh respons, membantu pengembang mengintegrasikan dan berinteraksi dengan layanan yang disediakan.
     icon: 📑
     link: /api/api-doc
   - title: Software Diagramming
     icon: 📐
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Software Diagram menggambarkan struktur, alur, dan hubungan antar komponen dalam sistem, membantu merancang dan mendokumentasikan aplikasi secara terstruktur.
     link: /diagram/architecture
   - title: About Us
     icon: 👥
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Halaman "About Us" menjelaskan visi, misi, nilai, dan tujuan perusahaan, serta memperkenalkan tim dan komitmen terhadap pelanggan.
     link: /about-us/organization
 ---
 

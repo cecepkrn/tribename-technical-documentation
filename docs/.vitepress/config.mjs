@@ -16,8 +16,7 @@ export default defineConfig({
       {
         text: 'Version',
         items: [
-          {text: "Update 0.1", link: "/api-examples"},
-          {text: "Update 0.2", link: "/api-examples"}
+          {text: "Update 24.2", link: "/versioning/24.2/api"},
         ]
       }
     ],
