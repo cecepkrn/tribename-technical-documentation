@@ -45,12 +45,15 @@ export default defineConfig({
         }
       ],
 
-      '/content/':[
+      '/about-us/':[
         {
           text: '',
           items:[
             {
-              text: 'About Us', link: '/content/about-us'
+              text: 'Organization', link: '/about-us/organization'
+            },
+            {
+              text: 'Teams', link: '/about-us/teams'
             }
           ]
         }

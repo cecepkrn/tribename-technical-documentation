@@ -27,7 +27,9 @@ features:
     icon: 📐
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /diagram/architecture
-  - title: Feature C
+  - title: About Us
+    icon: 👥
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /about-us/organization
 ---
 
